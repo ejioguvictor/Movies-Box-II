@@ -20,4 +20,5 @@ run yarn start
 😊 What's Next?
 This App will be constantly updated to include more features like
 
--view trailers
+-view trailers.
+-select favourite movies
